@@ -11,3 +11,13 @@ This project uses XGBoost to detect fraudulent credit card transactions.
 creditcardfraud.ipynb  : Jupyter notebook with full pipeline
 ## Dataset Link
 -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+## 📸 Model Evaluation
+
+Here’s the ROC curve showing high separability between fraud and non-fraud:
+
+![ROC Curve](https://github.com/m-shashank2/CreditCardfraud_detection/raw/main/confusionmatrix.png)
+
+And below is the confusion matrix after prediction:
+
+![Confusion Matrix](images/confusion_matrix.png)
+
