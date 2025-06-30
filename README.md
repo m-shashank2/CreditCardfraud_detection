@@ -15,9 +15,9 @@ creditcardfraud.ipynb  : Jupyter notebook with full pipeline
 
 Here’s the ROC curve showing high separability between fraud and non-fraud:
 
-![ROC Curve](https://github.com/m-shashank2/CreditCardfraud_detection/raw/main/confusionmatrix.png)
+![ROC Curve](https://github.com/m-shashank2/CreditCardfraud_detection/raw/main/roccurve.png)
 
 And below is the confusion matrix after prediction:
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/m-shashank2/CreditCardfraud_detection/blob/main/confusionmatrix.png)
 
