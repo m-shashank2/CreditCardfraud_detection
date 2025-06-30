@@ -8,6 +8,6 @@ This project uses XGBoost to detect fraudulent credit card transactions.
 - Achieves ~98% ROC-AUC
 
 ## Files
-- credit_card_fraud_detection.ipynb: Jupyter notebook with full pipeline
+creditcardfraud.ipynb  : Jupyter notebook with full pipeline
 ## Dataset Link
 -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
