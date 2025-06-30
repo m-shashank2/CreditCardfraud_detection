@@ -8,18 +8,19 @@ This project uses XGBoost to detect fraudulent credit card transactions.
 - Achieves ~98% ROC-AUC
 
 ## Files
-creditcardfraud.ipynb  
-requirements.txt
-README.md
+- creditcardfraud.ipynb  
+- requirements.txt
+- README.md
 
 ## Requirements
-pandas
-numpy
-scikit-learn
-xgboost
-imbalanced-learn
-matplotlib
-seaborn
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- imbalanced-learn
+- matplotlib
+- seaborn
+- 
 ## Dataset Link
 -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ## 📸 Model Evaluation
