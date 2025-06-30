@@ -20,7 +20,7 @@ This project uses XGBoost to detect fraudulent credit card transactions.
 - imbalanced-learn
 - matplotlib
 - seaborn
-- 
+
 ## Dataset Link
 -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ## 📸 Model Evaluation
